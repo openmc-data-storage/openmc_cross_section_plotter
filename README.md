@@ -4,8 +4,11 @@ OpenMC has a [plot_xs](https://docs.openmc.org/en/stable/pythonapi/generated/ope
 This package provides portable interaction cross section plots using [Plotly](https://plotly.com) which is useful for some use cases.
 
 :point_right: Allows multiple isotopes / elements / materials on one axis
+
 :point_right: Allows interactive hover text providing cross section values
+
 :point_right: Allows axis scale changing (log / linear)
+
 :point_right: Allows exporting the image in interactive html format
 
 # Install
